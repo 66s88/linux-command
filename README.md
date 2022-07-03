@@ -339,3 +339,5 @@ Made with [github-action-contributors](https://github.com/jaywcjlove/github-acti
 ## License
 
 Licensed under the MIT License.
+
+## https://github.com/ss66/linux-command/edit/master/
